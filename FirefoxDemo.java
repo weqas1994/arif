@@ -3,7 +3,7 @@ package com.syntax.class1;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class FirefoxDemo {
+public class FirefoxDemoTwo {
 
 	public static void main(String[] args) {
 
